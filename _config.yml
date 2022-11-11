@@ -41,7 +41,7 @@ event:
   location:    "Enschede, OV, Netherlands"
 
   trust_badge:
-    year:   "2023"  # season year
+    year:   "2017"  # season year
     region: "eu"    # "na" or "eu"
     color:  "blue" # "white", "black", "gray", "red", "blue" or "yellow"
 
