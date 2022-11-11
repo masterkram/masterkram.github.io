@@ -13,7 +13,7 @@ baseurl: "/mlh-hackathon-boilerplate"
 
 # If you're using GitHub pages without a custom domain, this is "https://[github username].github.io"
 # If you're using GitHub pages with a custom domain, this is "http://[your domain]" (or https if you're using SSL)
-url: "https://mlh.github.io"
+url: "https://masterkram.github.io"
 
 # The ability to use custom themes.
 style:
@@ -29,21 +29,21 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "Example Hacks | 5-6 August 2022"
+  title:       "BIT Hacks | 5-6 July 2023"
   description: "This is a sample hackathon website that you can use by following instructions on GitHub."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
 # Event information.
 event:
-  name:        "Example Hacks"
+  name:        "BIT Hacks"
   description: "This is a sample hackathon website that you can use by following instructions on GitHub."
   date:        "5 - 6 August 2022"
-  location:    "Holmdel, NJ, United States"
+  location:    "Enschede, OV, Netherlands"
 
   trust_badge:
-    year:   "2017"  # season year
+    year:   "2023"  # season year
     region: "eu"    # "na" or "eu"
-    color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
+    color:  "blue" # "white", "black", "gray", "red", "blue" or "yellow"
 
   hero:
     links:
